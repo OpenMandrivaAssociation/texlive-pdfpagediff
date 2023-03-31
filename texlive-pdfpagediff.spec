@@ -1,6 +1,6 @@
 Name:		texlive-pdfpagediff
 Version:	37946
-Release:	1
+Release:	2
 Summary:	Find difference between two PDF's
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pdfpagediff
