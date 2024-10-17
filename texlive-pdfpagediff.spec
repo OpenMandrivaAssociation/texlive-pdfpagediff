@@ -3,7 +3,7 @@ Version:	37946
 Release:	2
 Summary:	Find difference between two PDF's
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pdfpagediff
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/pdfpagediff
 License:	lppl1
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pdfpagediff.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pdfpagediff.doc.r%{version}.tar.xz
